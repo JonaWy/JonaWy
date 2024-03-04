@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JonaWy
-- 👀 I’m interested in learning to code small applications that help auitomate repetetive or simple taks for work
+- 👀 I’m interested in learning to code small applications that help automate repetetive or simple tasks for work
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any python related job
 - 📫 How to reach me: Linkedin
