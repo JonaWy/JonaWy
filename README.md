@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any python related job
 - 📫 How to reach me: Linkedin
-- ⚡ Fun fact: 
+- ⚡ Fun fact: love reading about investing, philosophy and history
 
 <!---
 JonaWy/JonaWy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
