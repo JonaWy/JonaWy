@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JonaWy
-- 👀 I’m interested in learning to code small applications that help automate repetetive or simple tasks for work
-- 🌱 I’m currently learning python, HTML, CSS and JS
+- 👀 I apsire to become a Full Stack Developer
+- 🌱 I’m currently learning HTML, CSS, JS and Git
 - 💞️ I’m looking to collaborate on any small project
 - 📫 How to reach me: Linkedin
 - ⚡ Fun fact: love reading about investing, philosophy and history
