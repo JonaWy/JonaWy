@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JonaWy
-- 👀 I love building Products
+- 👀 I love building products
 - 🌱 I’m currently learning to build apps and software with cursor
 - 💞️ I’m looking to collaborate on any small project
 - 📫 How to reach me: Linkedin
