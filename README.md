@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JonaWy
-- 💞️ I’m looking to collaborate on any small project
-- 📫 How to reach me: Linkedin
+👋 Hi, I’m @JonaWy
+💞️ I’m looking to collaborate on any small project
+📫 How to reach me: Linkedin
 
 <!---
 JonaWy/JonaWy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
